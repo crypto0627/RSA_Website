@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rs_website/static/css/main.79106eec.css",
-    "main.js": "/rs_website/static/js/main.3c94a996.js",
-    "index.html": "/rs_website/index.html",
-    "main.79106eec.css.map": "/rs_website/static/css/main.79106eec.css.map",
-    "main.3c94a996.js.map": "/rs_website/static/js/main.3c94a996.js.map"
+    "main.css": "/RSA_Website/static/css/main.79106eec.css",
+    "main.js": "/RSA_Website/static/js/main.8e64884c.js",
+    "index.html": "/RSA_Website/index.html",
+    "main.79106eec.css.map": "/RSA_Website/static/css/main.79106eec.css.map",
+    "main.8e64884c.js.map": "/RSA_Website/static/js/main.8e64884c.js.map"
   },
   "entrypoints": [
     "static/css/main.79106eec.css",
-    "static/js/main.3c94a996.js"
+    "static/js/main.8e64884c.js"
   ]
 }
