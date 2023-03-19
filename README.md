@@ -1,6 +1,6 @@
 # RSA_Encryption & Decryption
 
-
+### <a href="https://crypto0627.github.io/RSA_Website/">Website</a>
 
 ## Installation
 
@@ -19,4 +19,8 @@ $ cat rsa_1024_priv.pem
 ```
 paste public key & private key to /src/App.js
 ![image](https://github.com/crypto0627/RSA_Website/blob/main/src/img/key.png)
+
+```bash
+$ npm start
+```
 
